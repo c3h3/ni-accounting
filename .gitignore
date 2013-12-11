@@ -1,0 +1,9 @@
+*.pydevproject
+*.project
+*.pyc
+*.ipynb
+*.db
+local_settings.py
+.ipynb_checkpoints/
+mongodb/
+TEST_*.py
